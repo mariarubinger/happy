@@ -1,5 +1,5 @@
 # Happy
-Aplicação para voluntários encontrarem orfanatos e mudar o dia de muitas crianças.
+Aplicação para voluntários encontrarem orfanatos para visitar e mudar o dia de muitas crianças.
 
 ## Preview Desktop
 
