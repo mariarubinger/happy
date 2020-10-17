@@ -1,0 +1,24 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "Aplicação para voluntários encontrarem orfanatos para visitar e mudar o dia de muitas crianças.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariarubinger/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariarubinger/happy/issues"
+  },
+  "homepage": "https://github.com/mariarubinger/happy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
